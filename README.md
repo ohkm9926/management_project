@@ -1,6 +1,6 @@
 ## Management System
 본 프로젝트 React 강의 목적으로 만들어지 고객 관리 시스템
-입니다
+입니다..
 
 # Getting Started with Create React App
 
